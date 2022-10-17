@@ -23,7 +23,9 @@
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
+		
 	</array>
+	<key>Enable</key>
 	<key>CFBundleVersion</key>
 	<string>1.2.2</string>
 	<key>DTCompiler</key>
